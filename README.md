@@ -10,12 +10,14 @@ The second part of the project involves scraping information about the top 30 pi
 # Requirements
 The following packages are required to run the code:
 
-Python 3.8 or higher
-Selenium WebDriver
-pymongo
-requests
-beautifulsoup4
-Usage
+Python 3.8 or higher,
+Selenium WebDriver,
+pymongo,
+requests,
+beautifulsoup4,
+
+
+# Usage
 To use the code, first clone the repository:
 
 ```ruby
